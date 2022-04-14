@@ -1,0 +1,56 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.yellow{
+    background-color: $yellow ;
+    text-align: center;
+    justify-content: center;
+    
+}
+.yellow p{
+    margin-top: 5px;
+}
+
+.aqua{
+    text-align: center;
+    background-color: $aqua;
+
+    h1{
+        color: $white;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 50px;
+        font-weight: $bold;
+        
+    }
+
+    p{
+        color:$white;
+        font-weight: $bold;
+        font-size: 20px;
+    }
+}
+
+
+.ul{
+    .li{
+
+        a{
+            color: $white;
+            text-decoration: none;
+            margin-left: 15px; 
+        }
+        a:hover{
+            color: $aqua;
+            text-decoration: none;
+            margin-left: 15px;
+        }
+
+    }
+
+}
+
+
+
