@@ -1,11 +1,12 @@
 .blue{
-    background-color: aqua;
-}
-.container{
-    background-color: brown;
-    height: 500px;
+    background-color: yellow;
 }
 
 .yellow{
-    background-color: aquamarine;
+    background-color:aqua;
+}
+
+body{
+    margin: 0;
+    padding: 0;
 }
