@@ -1,4 +1,5 @@
 .blue{
+<<<<<<< HEAD
     background-color: yellow;
 }
 
@@ -9,4 +10,15 @@
 body{
     margin: 0;
     padding: 0;
+=======
+    background-color: aqua;
+}
+.container{
+    background-color: brown;
+    height: 500px;
+}
+
+.yellow{
+    background-color: aquamarine;
+>>>>>>> Content
 }
